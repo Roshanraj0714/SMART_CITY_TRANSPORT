@@ -98,7 +98,9 @@ This Power BI dashboard empowers decision-makers to:
 | `README.md` | Complete project documentation |
 
 ##🔗 Live Dashboard / Report
-[SMART_CITY_TRANSPORT](https://app.powerbi.com/view?r=eyJrIjoiNDNhOTFmMjAtZjZjMS00ZWM5LWEyZGUtNTRlMDY1Y2FjZDA0IiwidCI6IjY4NTYxZTJjLWQyOTAtNDNmNi1iMzY5LTNjNjFjNjkwM2MwYSJ9)
+
+(https://app.powerbi.com/view?r=eyJrIjoiNDNhOTFmMjAtZjZjMS00ZWM5LWEyZGUtNTRlMDY1Y2FjZDA0IiwidCI6IjY4NTYxZTJjLWQyOTAtNDNmNi1iMzY5LTNjNjFjNjkwM2MwYSJ9)
+
 ## 🙌 Acknowledgement
 
 - **Dataset Source:** Simulated / Open Transport Dataset  
@@ -112,4 +114,4 @@ By combining **revenue, passenger, delay, and fuel analytics**, city administrat
 The Smart City Transport Dashboard showcases the **power of data visualization** in building a more efficient, transparent, and sustainable urban transport system.  
 
 ##Screenshots / Demos
-![alt text](image.jpg)
+![alt text](https://github.com/Roshanraj0714/SMART_CITY_TRANSPORT/blob/main/SMART%20CITY%20TRANSPORT%20.png)
