@@ -113,5 +113,5 @@ By combining **revenue, passenger, delay, and fuel analytics**, city administrat
 
 The Smart City Transport Dashboard showcases the **power of data visualization** in building a more efficient, transparent, and sustainable urban transport system.  
 
-##Screenshots / Demos
+## Screenshots / Demos
 ![alt text](https://github.com/Roshanraj0714/SMART_CITY_TRANSPORT/blob/main/SMART%20CITY%20TRANSPORT%20.png)
